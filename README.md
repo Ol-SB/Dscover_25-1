@@ -1,2 +1,2 @@
-# Dscover_25-1
+# Dscover_25-1_GuideProject_TeamD
 DScover_25-1_GuideProject_TeamD
